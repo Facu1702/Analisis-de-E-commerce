@@ -16,7 +16,7 @@ Este trabajo fue realizado con el fin de demostrar mis habilidades analíticas, 
 ## 📌 Tecnologías y Herramientas Utilizadas
 
 - **Python 3**
-- **Jupyter Notebook** (Visual Studio Code)
+- **Jupyter Notebook**
 - **Librerías:**
   - `pandas`
   - `seaborn`
